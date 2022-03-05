@@ -74,6 +74,7 @@ DB_DATABASE=/*輸入你的環境變數*/
 ### 參考文件
 [API總覽](https://hackmd.io/@2dhQHQ8YT6CgER4nMYe_tQ/SJxXby-lq#)  
 [前端Repo](https://github.com/Freya-Jheng/twitter) 
+[上線網站Demo](https://freya-jheng.github.io/twitter/#/signin)
 
 ### 共同開發者
 
